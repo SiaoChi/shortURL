@@ -2,8 +2,10 @@
 This is a short url wrbsite for comparing the difference of database and server stress test.
 
 ## Development Environment
+- Programming: JavaScript / Node.js
 - database: mongoDB
 - AWS: EC2 T2 micro
+- EJS, HTML, CSS
 
 ## Function 
 1. Mongodb as database
